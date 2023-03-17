@@ -35,4 +35,7 @@
 需先申請帳號並啟用，串接API時需填入API Key，請事先申請以確保專案正常執行。
 
 ## Demo
-![Demo]([https://github.com/ashcicapair/whats_for_lunch/blob/055f1c33a3140d9cb073bc19683dca7c442bce27/Demo.gif])
+![Demo](https://github.com/ashcicapair/whats_for_lunch/blob/055f1c33a3140d9cb073bc19683dca7c442bce27/Demo.gif)
+
+## Reference
+AppWorks School. (2022, May 13). 網頁前端 Side Project 之午餐吃什麼？ [Video]. YouTube. https://reurl.cc/OVMap7
